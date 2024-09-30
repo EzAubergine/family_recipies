@@ -1,6 +1,6 @@
-## Recipe 00
+# Recipe 00
 
-### Tomato-potato HuiFan
+## Tomato-potato HuiFan
 
 
 **Serving:** 2 
@@ -21,4 +21,8 @@ Rice, 3 potatoes, 2 tomatoes
 7. Optional: Add cooked rice to the pot and mix
 8. Optional: Add fried egg and spring onions on top
 9. Ready to serve
+
+## Paneer Tikka Masala
+
+* (TODOs)
 
