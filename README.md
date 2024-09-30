@@ -26,4 +26,3 @@ Rice, 3 potatoes, 2 tomatoes
 
 * (TODOs)
 
-This error to be deleted
