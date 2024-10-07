@@ -26,3 +26,4 @@ Rice, 3 potatoes, 2 tomatoes
 
 * (TODOs)
 
+[Risotto](./risotto.md)
