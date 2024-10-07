@@ -27,4 +27,4 @@ Rice, 3 potatoes, 2 tomatoes
 * pizzas 
 - [base](./pizza.md)
 
-[Risotto](./risotto.md)
+[Risotto_updated](./risotto.md)
