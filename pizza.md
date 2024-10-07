@@ -7,5 +7,5 @@
 - 2 cups water
 
 ## steps
-- mix everything and
+- no need to mix everything :D and
 - go for it
