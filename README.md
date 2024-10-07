@@ -24,6 +24,7 @@ Rice, 3 potatoes, 2 tomatoes
 
 ## Paneer Tikka Masala
 
-* (TODOs)
+* pizzas 
+- [base](./pizza.md)
 
 [Risotto](./risotto.md)
